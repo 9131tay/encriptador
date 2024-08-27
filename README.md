@@ -19,6 +19,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - Adicionar mais temas visuais, implementando um visual futurista.
 - Mudar o aspceto visual do projeto.
+
+- Link para o projeto publicado no Vercel: https://encriptador-ovocrw1ze-9131tays-projects.vercel.app/
  --- 
 
 Desenvolvido com 🚀 por [Deborah Duarte](https://github.com/9131tay).
