@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+
+    /* Font */
+    --main-font: "Inter", sans-serif;
+
+    /* Colors */
+
+    --primary-color: #f2f2f2;
+    --secondary-color: #0A3871;
+    --tertiary-color: #6FDCE3;
+}
+
+body.dark-mode {
+    --primary-color: #171717;
+    --secondary-color: #f2f2f2;
+    --tertiary-color: #444444;
+}
+
+*,
+*::before,
+*::after {
+    transition: background-color 0.5s ease;
+}
+
+/* Certifique-se de que a transição também aplique a outros elementos que você deseja animar */
+body {
+    transition: color 0.5s ease;
+}
