@@ -20,10 +20,4 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Adicionar mais temas visuais, implementando um visual futurista.
 - Mudar o aspceto visual do projeto.
 
-## 📄 Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
-
----
-
 Desenvolvido com 🚀 por [Deborah Duarte](https://github.com/9131tay).
